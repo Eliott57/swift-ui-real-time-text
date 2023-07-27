@@ -17,3 +17,5 @@ In this project, I focused on the following aspects:
 3. **Handling Button Action:** I added functionality to the "Effacer" (Clear) button to reset the text field when clicked.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-real-time-text/assets/73584972/2b4a61e0-fc3d-4415-a825-ec55a64bcf90"/>
